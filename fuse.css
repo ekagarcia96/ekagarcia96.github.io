@@ -1,0 +1,43 @@
+  body, button {font-family:'Arvo',sans-serif;}
+    body {
+        background-image: url(Images/fuse-background.jpg);
+        background-size: cover;
+        background-attachment:fixed;
+        margin-left:15px;
+        color:white;
+    }
+    .right-header {
+        text-align:right;
+        margin-right: 20px;
+    }
+    .formbox {
+     border-radius:5px;
+    width:470px;
+        padding:5px;
+        margin-top:70px;
+        margin-left:-30px;
+    }
+    .inputbox {
+        width:300px;
+        height:75px;
+    }
+    #rightnav{
+        font-size:2rem;
+    }
+    #leftnav {
+        position: absolute;
+        bottom: 150px;
+    }
+    .activenav {
+        font-variant: small-caps;
+        font-size:1.3rem;
+    }
+
+a {
+    color:white;
+}
+.maincontent {
+    margin:auto;
+    margin-left:100px;
+    margin-right:250px;
+}
