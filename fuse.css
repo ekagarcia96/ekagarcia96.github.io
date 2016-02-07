@@ -1,3 +1,9 @@
+  
+  html {
+    background-color: lightGrey;
+  }
+  
+  
   body, button {font-family:'Arvo',sans-serif;}
     body {
         background-image: url(Images/fuse-background.jpg);
