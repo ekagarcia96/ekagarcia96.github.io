@@ -1,0 +1,35 @@
+<html>
+<head>
+<link href='fuse.css' rel='stylesheet'>
+<link href='https://fonts.googleapis.com/css?family=Arvo:700' rel='stylesheet' type='text/css'>
+</head>
+<body><div id='leftnav'><a href='index.html'>Home</a><br><br><a href="about.html">About</a><br><br>Contact Us<br><br><span class='activenav'><a href="clientele.html">Clientele</a></span></div>
+<br>
+
+<div id="lightgallery">
+  <a href="http://i.imgur.com/fAKpmmc.jpg">
+      <img src="http://i.imgur.com/oaTZYsT.jpg" alt="img1">
+  </a>
+  <a href="http://i.imgur.com/fAKpmmc.jpg">
+      <img src="http://i.imgur.com/oaTZYsT.jpg" alt="img2">
+  </a>
+    <a href="http://i.imgur.com/fAKpmmc.jpg">
+      <img src="http://i.imgur.com/oaTZYsT.jpg" alt="img3">
+  </a>
+    <a href="http://i.imgur.com/fAKpmmc.jpg">
+      <img src="http://i.imgur.com/oaTZYsT.jpg" alt="img4">
+  </a>
+  <br>
+  <a href="http://i.imgur.com/fAKpmmc.jpg">
+      <img src="http://i.imgur.com/oaTZYsT.jpg" alt="img5">
+      
+  </a><a href="http://i.imgur.com/fAKpmmc.jpg">
+      <img src="http://i.imgur.com/oaTZYsT.jpg" alt="img6">
+  </a>
+    <a href="http://i.imgur.com/fAKpmmc.jpg">
+      <img src="http://i.imgur.com/oaTZYsT.jpg" alt="img7">
+  </a>
+</div>
+
+</body>
+</html>
