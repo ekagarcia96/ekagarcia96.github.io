@@ -1,16 +1,14 @@
-  
-  html {
+    html {
     background-color: lightGrey;
   }
-  
-  
-  body, button {font-family:'Arvo',sans-serif;}
+    
+    body, button {font-family:'Arvo',sans-serif;}
     body {
         background-image: url(Images/fuse-background.jpg);
         background-size: cover;
         background-attachment:fixed;
         margin-left:15px;
-        color:white;
+        color:#2F9A96;
     }
     .right-header {
         text-align:right;
@@ -40,7 +38,7 @@
     }
 
 a {
-    color:white;
+    color:#2F9A96;
 }
 .maincontent {
     margin:auto;
