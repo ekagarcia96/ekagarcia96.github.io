@@ -29,6 +29,9 @@ body {
     background:rgba(0,0,0,0.5);
   }
   
-  #leftbar, #topbar, #center, #rightbar  {
+  #leftbar, 
+  w1024.homepage #pagecontainer #topban, 
+  w1024.homepage #pagecontainer #center, 
+  w1024.homepage #pagecontainer #rightbar  {
   background-color: transparent;}
 
