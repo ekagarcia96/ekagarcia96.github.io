@@ -1,16 +1,15 @@
 body{
 font-family: "proxima-nova";
-
 }
 
-.header-logo {
+#pagecontainer .bglogo {
   font-family: "blenny";
 }
 
-h4{
+h4 {
     font-family: "fatfrank";
 }
 
-h2 {
+#topban h2 {
   font-family: "retiro-std-24pt";
 }
