@@ -7,7 +7,9 @@ font-family: "proxima-nova";
 }
 
 h4 {
-    font-family: "fatfrank";
+  font-family: "brandon-grotesque";
+  font-weight: bold;
+  text-transform: uppercase;
 }
 
 #topban h2 {
