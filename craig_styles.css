@@ -13,5 +13,7 @@ h4 {
 }
 
 #topban h2 {
-  font-family: "retiro-std-24pt";
+  font-family: "brandon-grotesque";
+  font-weight: bold;
+  text-transform: capitalize;
 }
