@@ -2,7 +2,7 @@ body{
 font-family: "proxima-nova";
 }
 
-#pagecontainer .bglogo {
+.homepage #logo {
   font-family: "blenny";
 }
 
