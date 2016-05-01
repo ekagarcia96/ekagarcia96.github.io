@@ -31,6 +31,10 @@ body {
 
   }
   
+  .homepage .col ul{
+    background-color: transparent;
+  }
+  
     a:visited,
   a:active,
   a:link{
