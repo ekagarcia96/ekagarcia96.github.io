@@ -24,6 +24,19 @@ body {
   background-size: cover;
   color: white;
   }
+  
+  
+
+.homepage #center .ban{
+  background-color: rgba(0, 255, 243, 0.38);
+  height:100%;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+ 
+ #leftbar{
+   background-color:;
+ }
  
   .w1024.homepage #pagecontainer {
     background:rgba(0,0,0,0.75);
