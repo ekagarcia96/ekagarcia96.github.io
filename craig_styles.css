@@ -50,6 +50,7 @@ body {
   .w1024.homepage #pagecontainer {
     background:rgba(0,0,0,0.75);
         padding-left: 20px;
+        margin-top: 0;
   }
   
   .homepage .col ul{
