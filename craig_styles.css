@@ -25,6 +25,10 @@ body {
   color: white;
   }
   
+  #topban #leftbar {
+    background-color: transparent;
+  }
+  
   .w1024.homepage #pagecontainer {
     background:rgba(0,0,0,0.5);
   }
