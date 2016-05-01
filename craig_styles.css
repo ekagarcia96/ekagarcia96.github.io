@@ -38,6 +38,13 @@ body {
  
  #leftbar{
    background-color:rgba(0, 255, 231, 0.35);
+   padding-top: 30px;
+    padding-bottom: 30px;
+ }
+ 
+ .homepage #rightbar {
+      padding-top: 30px;
+    padding-bottom: 30px;
  }
  
   .w1024.homepage #pagecontainer {
