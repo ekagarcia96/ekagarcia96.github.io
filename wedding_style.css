@@ -44,9 +44,8 @@ font-weight: 700;
     color: rgba(255, 255, 255, 0.93);
 }
 
-h2 {
+h2 {padding-top:60px;
 	padding-left: 50px;
 	      font-family: "rooney-sans";
-	font-size: 700%;}
     color: rgba(255, 255, 255, 0.93);
-
+font-size: 200%;
