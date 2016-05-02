@@ -52,7 +52,7 @@ font-weight: 700;
 }
 
 #see {
-     width: 500px;
+     width: 520px;
     height: 25px;
     position: absolute;
     margin: 450px 0px 30px 110px;
@@ -63,14 +63,8 @@ font-weight: 700;
 }
 
 #see a, #see a:hover {
-     width: 500px;
-    height: 25px;
-    position: absolute;
-    margin: 450px 0px 30px 110px;
-    color: #FFF;
-    text-decoration: none;
-    padding: 20px;
-    border-radius: 3px;}
+         text-decoration: none;
+}
 
 .bold
 
