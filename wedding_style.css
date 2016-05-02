@@ -43,3 +43,12 @@ h1 {
     color: rgba(255, 255, 255, 0.93);
 }
 
+h1 {
+	float: left;
+	padding-left: 50px;
+	  font-family: "pauline";
+	font-weight: bold oblique;
+	padding-top:70px;
+	font-size: 700%;
+    color: rgba(255, 255, 255, 0.93);
+
