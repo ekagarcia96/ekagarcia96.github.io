@@ -62,8 +62,9 @@ font-weight: 700;
     border-radius: 3px;
 }
 
-#see a {
-         text-decoration: none;
+a:hover div {
+color: #FFE5BC;
+	
 }
 
 .bold {
