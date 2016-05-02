@@ -80,8 +80,9 @@ font-weight: 700;
 	float: right;
 	width: 450px;
 	height: 600px;
-	margin-bottom: 0px;
-	margin right: 40px;
+	position:absolute;
+     bottom:0;
+     right:10px;
 	background: white;
 color: #FFE5BC;
 }
