@@ -50,5 +50,8 @@ h2 {
 	font-weight: bold oblique;
 	padding-top:50px;
 	font-size: 900%;
-	color: (255,100,0,0.4);
+	color: rgb(255,100,0,0.4);
+    background-color: #EEEEEE;
+    position: absolute;
+    z-index:100;
 }
