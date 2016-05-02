@@ -77,13 +77,18 @@ font-weight: 700;
 }
 
 #quote {
-	float: right;
-	width: 450px;
-	height: 600px;
-	position:absolute;
-     bottom:0;
-     right:10px;
-	background: white;
-color: #FFE5BC;
-padding: 10px 10px 10px 10px;
+	
+    float: right;
+    width: 550px;
+    height: 100px;
+    position: absolute;
+    bottom: 0;
+    right: 70px;
+    background: white;
+    color: rgba(119, 119, 119, 0.83);
+    padding: 30px 30px 30px 30px;
+    font-family: "pauline";
+    font-size: 200%;
+    text-align: center;
+    border-radius: 6px;
 }
