@@ -29,5 +29,7 @@ a:visited {
 }
 
 a:hover{
-color: pink;}
+color: orange;
+	border-bottom: dotted 2px;
+}
 
