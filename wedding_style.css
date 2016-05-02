@@ -60,12 +60,10 @@ font-weight: 700;
     border: 1px solid #fff;
     padding: 20px;
     border-radius: 3px;
+    
 }
 
-a:hover div {
-color: #FFE5BC;
-	
-}
+
 
 .bold {
 	font-weight: bold;
@@ -76,4 +74,14 @@ color: #FFE5BC;
     font-size: 150%;
     padding-left: 220px;
     line-height: 1.5;
+}
+
+#quote {
+	float: right;
+	width: 450px;
+	height: 600px;
+	margin-bottom: 0px;
+	margin right: 40px;
+	background: white;
+color: #FFE5BC;
 }
