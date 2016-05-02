@@ -31,6 +31,11 @@ a:visited {
 
 a:hover{
 color: pink;
-	border-bottom: solid 2px;
 }
 
+h1 {
+	float: left;
+	padding-left: 40px;
+	  font-family: "pauline";
+	font-weight: bold oblique;
+}
