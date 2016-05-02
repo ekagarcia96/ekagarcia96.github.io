@@ -47,25 +47,26 @@ font-weight: 700;
 
 #bar {
 	padding: 5px 10px 5px 10px;
-    border: solid 2px rgba(255, 255, 255, 0.25);
+    border: 1px solid #fff;
     margin-right: 0;
-    border-radius: 20px;
+    border-radius: 3px;
 }
 
 #see {
-    width: 300px;
+       width: 500px;
     height: 25px;
     padding: 20px;
     position: absolute;
     top: 50%;
-    left: 50%;
-    margin: -32px 0 80px -170px;
-}
-#see  {
+    margin: 200px 0px 30px 110px;
     color: #FFF;
     border: 1px solid #fff;
     padding: 20px;
-    text-decoration: none;
         border-radius: 3px;
 }
 
+.bold
+
+{
+	font-weight: bold;
+}
