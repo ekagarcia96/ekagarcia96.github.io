@@ -40,17 +40,17 @@ h1 {
 	font-weight: bold oblique;
 	padding-top:30px;
 	font-size: 900%;
-	color: (255,255,255,0.4);
+    color: rgba(255, 255, 255, 0.93);
 }
 
 h2 {
 	float: left;
-	padding-left: 60px;
+	padding-left: 45px;
 	  font-family: "pauline";
 	font-weight: bold oblique;
-	padding-top:50px;
+	padding-top:35px;
 	font-size: 900%;
-	color: rgb(255,100,0,0.4);
+	color: rgba(255, 255, 255, 0.42);
     position: absolute;
     z-index:100;
 }
