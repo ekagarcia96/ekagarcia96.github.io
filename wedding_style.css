@@ -42,7 +42,7 @@ font-weight: 700;
 	padding-top:30px;
 	font-size: 900%;
     color: rgba(255, 255, 255, 0.93);
-        line-height: 0.8;
+        line-height: 0.98;
 
     
 }
@@ -55,7 +55,7 @@ font-weight: 700;
      width: 500px;
     height: 25px;
     position: absolute;
-    margin: 500px 0px 30px 110px;
+    margin: 450px 0px 30px 110px;
     color: #FFF;
     border: 1px solid #fff;
     padding: 20px;
