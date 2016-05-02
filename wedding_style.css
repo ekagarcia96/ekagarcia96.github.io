@@ -35,17 +35,14 @@ color: pink;
 
 h1 {
 	float: left;
-	padding-left: 50px;
+	padding-left: 60px;
 	 font-family: "pauline",sans-serif;
 font-style: italic;
 font-weight: 700;
 	padding-top:30px;
 	font-size: 900%;
     color: rgba(255, 255, 255, 0.93);
+    
 }
 
-h2 {padding-top:60px;
-	padding-left: 50px;
-	      font-family: "rooney-sans";
-    color: rgba(255, 255, 255, 0.93);
-font-size: 200%;
+
