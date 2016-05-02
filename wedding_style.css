@@ -52,9 +52,9 @@ font-weight: 700;
 #see {
        width: 500px;
     height: 25px;
-    position: fixed;
+    position: absolute;
     top: 275%;
-    margin: 200px 0px 30px 110px;
+    margin: 50px 0px 30px 110px;
     color: #FFF;
     border: 1px solid #fff;
     padding: 20px;
