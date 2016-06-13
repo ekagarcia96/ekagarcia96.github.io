@@ -336,3 +336,9 @@ body{
 	background-image: url("download.png");
 }
 
+html{
+resize: both;
+    overflow: auto;	
+}
+
+
